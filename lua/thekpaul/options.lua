@@ -104,3 +104,18 @@ vim.g.tex_flavor = "latex"
 
 -- LEADER key
 vim.g.mapleader = " "
+
+-- Additional filetype detection
+vim.filetype.add({
+	extension = {
+		v = 'verilog',
+		h = 'c',
+		mlx = 'matlabscript'
+	},
+	pattern = {
+		['.*/.*%.cdsinit.*'] = 'skill', -- See `:help lua-patterns`
+		['.*ssh/config'] = 'sshconfig',
+		['.*/.*%.synopsys_dc.setup.*'] = 'tcl',
+		['.*/innovus.cmd.*'] = 'tcl'
+	}
+})
