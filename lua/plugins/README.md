@@ -8,4 +8,9 @@ being configured in its own `local` table.
 The files will return a single table that contains one or more of such `local`
 configuration tables.
 
+A simple overview is listed below:
+
+- Colorscheme: [`./colorscheme.lua`](./colorscheme.lua)
+  - [`junegunn/seoul256.vim`](https://github.com/junegunn/seoul256.vim)
+
 [Lazy.nvim]: https://github.com/folke/lazy.nvim
