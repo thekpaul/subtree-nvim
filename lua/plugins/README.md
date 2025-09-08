@@ -12,5 +12,10 @@ A simple overview is listed below:
 
 - Colorscheme: [`./colorscheme.lua`](./colorscheme.lua)
   - [`junegunn/seoul256.vim`](https://github.com/junegunn/seoul256.vim)
+- Auto-pairing: [`./pairs.lua`](./pairs.lua)
+  - [`nvim-mini/mini.pairs`](https://github.com/nvim-mini/mini.pairs)
+  - [`m4xshen/autoclose.nvim`](https://github.com/m4xshen/autoclose.nvim)
+  - [`altermo/ultimate-autopair.nvim`](https://github.com/altermo/ultimate-autopair.nvim)
+  - [`jiangmiao/auto-pairs`](https://github.com/jiangmiao/auto-pairs)
 
 [Lazy.nvim]: https://github.com/folke/lazy.nvim
