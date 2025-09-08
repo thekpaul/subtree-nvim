@@ -12,6 +12,10 @@ A simple overview is listed below:
 
 - Colorscheme: [`./colorscheme.lua`](./colorscheme.lua)
   - [`junegunn/seoul256.vim`](https://github.com/junegunn/seoul256.vim)
+- Finder: [`./finder.lua`](./finder.lua)
+  - [`stevearc/oil.nvim`](https://github.com/stevearc/oil.nvim)
+  - [`nvim-telescope/telescope.nvim`](https://github.com/nvim-telescope/telescope.nvim)
+    - [`nvim-telescope/telescope-fzf-native.nvim`](https://github.com/nvim-telescope/telescope-fzf-native.nvim)
 - Auto-pairing: [`./pairs.lua`](./pairs.lua)
   - [`nvim-mini/mini.pairs`](https://github.com/nvim-mini/mini.pairs)
   - [`m4xshen/autoclose.nvim`](https://github.com/m4xshen/autoclose.nvim)
