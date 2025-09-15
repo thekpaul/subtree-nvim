@@ -45,5 +45,7 @@ A simple overview is listed below:
   - [`m4xshen/autoclose.nvim`](https://github.com/m4xshen/autoclose.nvim)
   - [`altermo/ultimate-autopair.nvim`](https://github.com/altermo/ultimate-autopair.nvim)
   - [`jiangmiao/auto-pairs`](https://github.com/jiangmiao/auto-pairs)
+- Todo-comment helper: [`./todo.lua`](./todo.lua)
+  - [`folke/todo-comments.nvim`](https://github.com/folke/todo-comments.nvim)
 
 [Lazy.nvim]: https://github.com/folke/lazy.nvim
