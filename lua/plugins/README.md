@@ -36,6 +36,8 @@ A simple overview is listed below:
 - Git integration: [`./git.lua`](./git.lua)
   - [`lewis6991/gitsigns.nvim`](https://github.com/lewis6991/gitsigns.nvim)
   - [`tpope/vim-fugitive`](https://github.com/tpope/vim-fugitive)
+- Indentation assistance: [`./indent.lua`](./indent.lua)
+  - [`lukas-reineke/indent-blankline.nvim`](https://github.com/lukas-reineke/indent-blankline.nvim)
 - Auto-pairing: [`./pairs.lua`](./pairs.lua)
   - [`nvim-mini/mini.pairs`](https://github.com/nvim-mini/mini.pairs)
   - [`m4xshen/autoclose.nvim`](https://github.com/m4xshen/autoclose.nvim)
