@@ -51,5 +51,11 @@ A simple overview is listed below:
   - [`mhinz/vim-startify`](https://github.com/mhinz/vim-startify)
 - LaTeX-specific additional plugin(s): [`./tex.lua`](./tex.lua)
   - [`lervag/vimtex`](https://github.com/lervag/vimtex)
+- Miscellaneous: [`./misc.lua`](./misc.lua)
+  - [`stevearc/dressing.nvim`](https://github.com/stevearc/dressing.nvim)
+  - [`nvim-tree/nvim-web-devicons`](https://github.com/nvim-tree/nvim-web-devicons)
+  - [`tpope/vim-surround`](https://github.com/tpope/vim-surround)
+  - [`tpope/vim-abolish`](https://github.com/tpope/vim-abolish)
+  - [`wakatime/vim-wakatime`](https://github.com/wakatime/vim-wakatime)
 
 [Lazy.nvim]: https://github.com/folke/lazy.nvim
