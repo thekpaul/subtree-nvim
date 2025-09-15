@@ -47,5 +47,7 @@ A simple overview is listed below:
   - [`jiangmiao/auto-pairs`](https://github.com/jiangmiao/auto-pairs)
 - Todo-comment helper: [`./todo.lua`](./todo.lua)
   - [`folke/todo-comments.nvim`](https://github.com/folke/todo-comments.nvim)
+- Start-screen generator: [`./startscreen.lua`](./startscreen.lua)
+  - [`mhinz/vim-startify`](https://github.com/mhinz/vim-startify)
 
 [Lazy.nvim]: https://github.com/folke/lazy.nvim

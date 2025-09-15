@@ -14,6 +14,9 @@ ibl.opts = {
 	scope = {
 		highlight = "ScopeFG"
 	},
+	exclude = {
+		filetypes = { "startify" }
+	}
 }
 ibl.config = function(_, opts)
 	-- Indentation whitespace highlight groups
