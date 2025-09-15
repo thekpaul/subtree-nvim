@@ -49,5 +49,7 @@ A simple overview is listed below:
   - [`folke/todo-comments.nvim`](https://github.com/folke/todo-comments.nvim)
 - Start-screen generator: [`./startscreen.lua`](./startscreen.lua)
   - [`mhinz/vim-startify`](https://github.com/mhinz/vim-startify)
+- LaTeX-specific additional plugin(s): [`./tex.lua`](./tex.lua)
+  - [`lervag/vimtex`](https://github.com/lervag/vimtex)
 
 [Lazy.nvim]: https://github.com/folke/lazy.nvim
