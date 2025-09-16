@@ -223,6 +223,9 @@ local airline = { 'vim-airline/vim-airline' }
 
 airline.init = function()
 	vim.g.airline_powerline_fonts = true
+	vim.g.airline_symbols = {
+		branch = ""
+	}
 end
 
 return { barbar, airline }
