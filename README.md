@@ -3,6 +3,12 @@ Neovim Subtree
 
 This subtree tracks configurations for the `nvim` Neovim executable.
 
+## Branch README
+
+This branch filters configurations and plugins for Neovim that can be used
+without conflict in Visual Studio Code via the [VSCode-Neovim][vscode-nvim]
+plugin.
+
 ## Installation
 
 Install this subtree at `$XDG_CONFIG_HOME/nvim`:
@@ -39,3 +45,4 @@ Authored and maintained by [Paul Kim](https://thekpaul.dev).
 Distributed under the [MIT License][license].
 
 [license]: ./LICENSE.md
+[vscode-nvim]: https://github.com/vscode-neovim/vscode-neovim
